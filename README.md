@@ -1,4 +1,4 @@
-# tfp-tutorial
+# tensor-flow-probablity
 My own implementations of some examples using TensorFlow Probability for tutorial purposes
 
 ## Tutorials
